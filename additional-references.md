@@ -17,6 +17,11 @@ Author: [Chris Merkel](https://twitter.com/chrismerkel)
 \*\*\*\*[**How we brought security awareness through the company with automation of open source tools**](https://medium.com/daniel-wellington-tech-stories/how-we-brought-security-awareness-through-the-company-with-automation-of-open-source-tools-and-a-b8dcf0234c69)  
 ****Author: [Daniel Wellington Technologies](https://github.com/dwtechnologies)
 
+[**Gophish: Phishing Framework for Simulation and Red Team**](https://en.hackita.it/articoli/gophish/)  
+Author: [Canio Campaniello](https://github.com/hack-ita) (HackITA)  
+_A practical, community-authored walkthrough covering installation and configuration, SMTP sending profiles, landing pages, email templates, campaign workflows, reporting, troubleshooting, and detection considerations._
+
+
 
 
 ## Tools
@@ -47,4 +52,4 @@ _This plugin makes it easy to report phishing for endusers. It will report using
 
 \*\*\*\*[**DW Gophish Automation**](https://github.com/dwtechnologies/dw-gophish-automation)  
 ****Author: [Daniel Wellington Technologies](https://github.com/dwtechnologies)  
-_This project is intended to automate the procedure internal phishing campaigns via Gophish as well as avoiding the GoPhish URL being flagged by google safebrowsing. The idea is to run it completely by itself by scheduling the scripts to run in the prefered manner._
+_This project is intended to automate the procedure internal phishing campaigns via Gophish as well as avoiding the GoPhish URL being flagged by google safebrowsing. The idea is to run it completely by itself by scheduling the scripts in the prefered manner._
